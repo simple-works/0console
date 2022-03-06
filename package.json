@@ -1,6 +1,6 @@
 {
   "name": "0console",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Patched console functions with improved output.",
   "main": "index.js",
   "scripts": {
